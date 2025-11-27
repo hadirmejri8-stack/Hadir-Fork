@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # Hadir-Fork
-=======
+
 # Hadir
 
 Repo GitHub Demo Test
@@ -13,4 +13,8 @@ ERRROR
 
 
 
->>>>>>> upstream/main
+
+# Hadir-Fork
+New line from local repo.
+
+
